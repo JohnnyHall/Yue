@@ -1,0 +1,11 @@
+{
+    "prefix": "*",
+    "WATSON": {
+      "API_KEY": "4WfEEpuFskCF4jQiQ4AV9McHpwOhqkl9oOdfIBOIkmTL",
+      "WORKSPACE_ID": "28df5cf1-4c8b-4747-8ccc-f0025767908f",
+      "ASSISTANT_ID": "c7ea1f4a-29b0-437e-806e-d502b9624bba",
+      "SERVICE_URL": "https://gateway.watsonplatform.net/assistant/api/",
+      "VERSION": "2020-12-03"
+    },
+    "ownerID": "763766687643598871"
+}
