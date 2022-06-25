@@ -6,7 +6,9 @@
 > Yue foi meu primeiro bot no discord, ela foi criada com o intuito de ser um bot divertido que interagia com os outros
 
 ## 📜 Requiremednts
-1. Windows.h header or equivalent
+1. Discord Bot Token Guide
+2. Node.js 12
+
 
 ## 🌎 Locales
 Currently available locales are:
