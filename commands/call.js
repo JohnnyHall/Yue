@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-client.login('NzYzNzY2Njg3NjQzNTk4ODcx.X38fKA.6AR6CMj70VjCoUQMpLnsMcvASm4');
+client.login('');
 
 client.on('message', async message => {
   // Voice only works in guilds, if the message does not come from a guild,
