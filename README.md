@@ -20,12 +20,9 @@ Currently available locales are:
 5. Submit a pull request
 
 ## 👤 Developers
-- Daniela Akemi Hayashi    
-- Felipe Yabiko Nogueira          
-- Giovana Salazar Alarcon        
-- João Victor Rokemback Tápparo
+ - João Victor Rokemback Tápparo
 
 <p align="center">
   Created on <br>
-  03/06/2022
+  08/08/2020
 </p>
