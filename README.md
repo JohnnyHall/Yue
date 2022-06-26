@@ -76,7 +76,11 @@
 *Forca | Cria um jogo de forca.<br>
 *Jokempo | É um jogo de Pedra, papel e tesoura.<br>
 
-
+## 🖼️ Some examples
+  <img src="https://i.imgur.com/mIt0IG5.png" height='300'/><br>
+  <img src="https://i.imgur.com/LuRAABM.png" height='300'/><br>
+  <img src="https://i.imgur.com/GeXmPiY.png" height='150'/>
+  
 ## 🌎 Locales
 Currently available locales are:
 - Brazilian Portuguese (pt_br)
