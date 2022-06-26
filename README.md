@@ -16,36 +16,32 @@
         Avatar - Mostra a sua foto de perfil.
         Kiss - Da um beijão em alguem.
         Murro - Da um murro em alguem.
-        Meme - Envia um meme.')
-        Coinflip - É um jogo de cara ou coroa.')
-        Fox - Mostra imagens e fatos aleatorios sobre raposas.')
-        Remoji - Envia um emoji aleatorio.')
-        Alife - Mostra seu ralacionamento com uma pessoa em outra vida.')
-        Amizade - Mostra seu nivel de amizade com outra pessoa.')
+        Meme - Envia um meme.
+        Coinflip - É um jogo de cara ou coroa.
+        Fox - Mostra imagens e fatos aleatorios sobre raposas.
+        Remoji - Envia um emoji aleatorio.
+        Alife - Mostra seu ralacionamento com uma pessoa em outra vida.
+        Amizade - Mostra seu nivel de amizade com outra pessoa.
 
         ### Utlity💡
-        Ping - Ele mostra o ping.')
-        Say - A Yue fala uma oque você escrever.')
-        Uptime - Mostra o tempo em que a Yue esta ligada.')
-        Post - Faz uma postagem no canal geral.')
-        Calculate - É uma calculadora, digite uma conta depois do Calculate.')
-        Userinfo - Faz um resumo sobre o perfil da pessoa.')
-        .addField('`*Serverinfo`', 'Faz um resumo sobre o server.')
-        .addField('`*Yueinfo`', 'Faz um resumo sobre a Yue.')
-        .addField('`*BotInvite`', 'Manda o link de convite para Bots.')
-        .addField('`*Id`', 'Mostra o seu ID.')
+        Ping - Ele mostra o ping.
+        Say - A Yue fala uma oque você escrever.
+        Uptime - Mostra o tempo em que a Yue esta ligada.
+        Post - Faz uma postagem no canal geral.
+        Calculate - É uma calculadora, digite uma conta depois do Calculate.
+        Userinfo - Faz um resumo sobre o perfil da pessoa.
+        Serverinfo - Faz um resumo sobre o server.
+        Yueinfo - Faz um resumo sobre a Yue.
+        BotInvite - Manda o link de convite para Bots.
+        Id - Mostra o seu ID.
 
-        const animes = new Discord.MessageEmbed()
-        .setThumbnail('https://i.imgur.com/bYxVNcY.png')
-        .setTitle('Animes🎌')
-        .addField('`*Anime`', 'Faz uma sinopse do anime que você pesquisar.')
-        .addField('`*Animes`', 'Um geral sobre animes.')
+        Animes🎌
+        Anime - Faz uma sinopse do anime que você pesquisar.
+        Animes - Um geral sobre animes.
 
-        const world  = new Discord.MessageEmbed()
-        .setThumbnail('https://i.imgur.com/bYxVNcY.png')
-        .setTitle('World🌎')
-        .addField('`*Covid`', 'Relata os casos de covid não só no brasil com no mundo inteiro.')
-        .addField('`*Weather`', 'Mostra a previsão do tempo.')
+        World🌎
+        Covid - Relata os casos de covid não só no brasil com no mundo inteiro.
+        Weather - Mostra a previsão do tempo.
 
         const moderation  = new Discord.MessageEmbed()
         .setThumbnail('https://i.imgur.com/bYxVNcY.png')
