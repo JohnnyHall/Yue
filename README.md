@@ -77,6 +77,7 @@
 *Jokempo | É um jogo de Pedra, papel e tesoura.<br>
 
 ## 🖼️ Some examples
+  <img src="https://i.imgur.com/PsxGxMN.png" height='250'/><br>
   <img src="https://i.imgur.com/mIt0IG5.png" height='300'/><br>
   <img src="https://i.imgur.com/LuRAABM.png" height='300'/><br>
   <img src="https://i.imgur.com/GeXmPiY.png" height='150'/>
