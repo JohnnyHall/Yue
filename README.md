@@ -44,24 +44,24 @@
 *Weather |Shows the weather forecast.<br>
 
 ### Moderation 💬
-*Benchmark | Compete com o bot o UwU.<br>
-*Nbans | Mostra o numero de bans no server.<br>
-*Restart | Da restart na Yue.<br>
-*- | Apaga mensagens.<br>
-*Msg | Manda alguma mensagem no DM da pessoa marcada.<br>
-*PostR | Fazer um anuncio no Round | Table.<br>
-*Antiraid | Esse comando evita raids no server quando ele é ativado.<br>
-*Kick | Expusa uma pessoa do server.<br>
-*Nservers | Mostra em quantos servers a Yue está.<br>
+*Benchmark | Compete with the UwU bot.<br>
+*Nbans | Shows the number of bans on the server.<br>
+*Restart | Restart Yue.<br>
+*- | Delete messages.<br>
+*Msg | Send a message in the DM of the tagged person.<br>
+*PostR | Make an announcement in the round table.<br>
+*Antiraid | This command prevents raids on the server when it is activated.<br>
+*Kick | Kicks a person off the server.<br>
+*Nservers | Shows how many servers Yue is on.<br>
 
 ### Write🖊️
-*Conquista | Cria uma imagem com sua frase sobrescrevendo uma imagem de conquista do minecraft.<br>
-*Retro | Cria uma imagem com sua frase sobrescrevendo uma imagem retro.<br>
-*Emojit | Reescreve em emoji o texto que você digitar.<br>
-*Ascii | Tudo que você escrever depois desse comando ele vai transformar em ascii.<br>
-*Morse | Reescreve em código morse o texto que você digitar.<br>
-*Robo | Faz o bot Clyde falar oque você escrever.<br>
-*Putin | Escreve uma mensagem com o gif do Putin.<br>
+*Conquista | Create an image with your phrase overwriting a minecraft achievement image.<br>
+*Retro | Create an image with your phrase overwriting a retro image.<br>
+*Emojit | Write in emoji the text you type.<br>
+*Ascii | Everything you write after this command it will transform into ascii.<br>
+*Morse | Write in morse code the text you type.<br>
+*Robo | Make the Clyde bot speak what you write.<br>
+*Putin | Write a message with Putin's GIF.<br>
 
 ### Gifs😀
 *Gif | O bot manda gifs personalizados.<br>
