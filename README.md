@@ -3,7 +3,7 @@
 </p>
 
 # 🍭 Yue
-> Yue foi meu primeiro bot no discord, ela foi criada com o intuito de ser um bot divertido que interagia com os outros
+> Yue was my first discord bot, she was created with the intention of being a fun bot that interacted with others
 
 ## 📜 Requiremednts
 1. Discord Bot Token Guide
@@ -13,15 +13,15 @@
 > Default prefix is '*'
 
 ### Fun✨
-*Avatar | Mostra a sua foto de perfil.<br>
-*Kiss | Da um beijão em alguem.<br>
-*Murro | Da um murro em alguem.<br>
-*Meme | Envia um meme.<br>
-*Coinflip | É um jogo de cara ou coroa.<br>
-*Fox | Mostra imagens e fatos aleatorios sobre raposas.<br>
-*Remoji | Envia um emoji aleatorio.<br>
-*Alife | Mostra seu ralacionamento com uma pessoa em outra vida.<br>
-*Amizade | Mostra seu nivel de amizade com outra pessoa.<br>
+*Avatar | Shows your profile picture.<br>
+*Kiss | Give someone a kiss.<br>
+*Murro | Punch someone.<br>
+*Meme | Send a meme.<br>
+*Coinflip | It's a coinflip game.<br>
+*Fox | Shows random images and facts about foxes.<br>
+*Remoji | Send a random emoji.<br>
+*Alife | It shows your relationship with a person in another life.<br>
+*Amizade | Shows your friendship level with another person.<br>
 
 ### Utlity💡
 *Ping | Ele mostra o ping.<br>
