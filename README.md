@@ -24,24 +24,24 @@
 *Amizade | Shows your friendship level with another person.<br>
 
 ### Utlity💡
-*Ping | Ele mostra o ping.<br>
-*Say | A Yue fala uma oque você escrever.<br>
-*Uptime | Mostra o tempo em que a Yue esta ligada.<br>
-*Post | Faz uma postagem no canal geral.<br>
-*Calculate | É uma calculadora, digite uma conta depois do Calculate.<br>
-*Userinfo | Faz um resumo sobre o perfil da pessoa.<br>
-*Serverinfo | Faz um resumo sobre o server.<br>
-*Yueinfo | Faz um resumo sobre a Yue.<br>
-*BotInvite | Manda o link de convite para Bots.<br>
-*Id | Mostra o seu ID.<br>
+*Ping | It shows the ping.<br>
+*Say | Yue says what you write.<br>
+*Uptime | Shows the time when Yue is on.<br>
+*Post | Post in the general channel.<br>
+*Calculate | It's a calculator, type an account after Calculate.<br>
+*Userinfo | Summarizes the person's profile.<br>
+*Serverinfo | Summarizes the server.<br>
+*Yueinfo | Summarize Yue.<br>
+*BotInvite | Send the invite link to Bots.<br>
+*Id | Show your ID.<br>
 
 ### Animes🎌
-*Anime | Faz uma sinopse do anime que você pesquisar.<br>
-*Animes | Um geral sobre animes.<br>
+*Anime | Make a synopsis of the anime you search.<br>
+*Animes | Show anime related data.<br>
 
 ### World🌎
-*Covid | Relata os casos de covid não só no brasil com no mundo inteiro.<br>
-*Weather | Mostra a previsão do tempo.<br>
+*Covid | It reports the cases of covid not only in Brazil but worldwide.<br>
+*Weather |Shows the weather forecast.<br>
 
 ### Moderation 💬
 *Benchmark | Compete com o bot o UwU.<br>
