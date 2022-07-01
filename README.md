@@ -64,17 +64,17 @@
 *Putin | Write a message with Putin's GIF.<br>
 
 ### Gifs😀
-*Gif | O bot manda gifs personalizados.<br>
-*GifList | Mostra a list de Gifs personalizados.<br>
+*Gif | The bot sends custom gifs<br>
+*GifList | Shows the list of custom gifs.<br>
 
 ### Games🎮
-*Osu | Obtém informações sobre um usuário de Osu!<br>
-*Among | Chama todo mundo pra jogar among.<br>
-*Quiz | Faz um quiz.<br>
-*Vidente | Esse comando ve o fututo e responde sua pergunta.<br>
-*Dado | Gira um dado.<br>
-*Forca | Cria um jogo de forca.<br>
-*Jokempo | É um jogo de Pedra, papel e tesoura.<br>
+*Osu | Get information about a user of Osu!<br>
+*Among | Call everyone to play come in.<br>
+*Quiz | Take a quiz.<br>
+*Vidente | This command sees the future and answers your question.<br>
+*Dado | Spin a dice.<br>
+*Forca | Create a hangman game.<br>
+*Jokempo | It's a game of Rock, Paper, Scissors.<br>
 
 ## 🖼️ Some Examples
   <img src="https://i.imgur.com/PsxGxMN.png" height='250'/><br>
