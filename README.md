@@ -88,7 +88,7 @@ Currently available locales are:
 
 ## 🤝 Contributing
 1. [Fork the repository](https://github.com/JohnnyHall/yue/fork)
-2. Clone your fork: `git clone https://github.com/JohnnyHall/Anagram-game.git`
+2. Clone your fork: `git clone https://github.com/JohnnyHall/yue.git`
 3. Stage changes `git add .`
 4. Commit your changes: `cz` OR use `git commit`
 5. Submit a pull request
