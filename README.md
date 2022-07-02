@@ -87,7 +87,7 @@ Currently available locales are:
 - Brazilian Portuguese (pt_br)
 
 ## 🤝 Contributing
-1. [Fork the repository](https://github.com/JohnnyHall/Anagram-game/fork)
+1. [Fork the repository](https://github.com/JohnnyHall/yue/fork)
 2. Clone your fork: `git clone https://github.com/JohnnyHall/Anagram-game.git`
 3. Stage changes `git add .`
 4. Commit your changes: `cz` OR use `git commit`
