@@ -5,7 +5,7 @@
 # 🍭 Yue
 > Yue was my first discord bot, she was created with the intention of being a fun bot that interacted with others
 
-## 📜 Requiremednts
+## 📜 Requirements
 1. Discord Bot Token Guide
 2. Node.js 12
 
